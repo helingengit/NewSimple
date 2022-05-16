@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="you_status_bar_color">#0C3731</color>
+    <color name="you_contextual_status_bar_color">#005747</color>
+    <color name="you_background_color">#1b1b1b</color>
+    <color name="you_neutral_text_color">#F1FFFC</color>
+    <color name="you_primary_color">#34A192</color>
+    <color name="you_primary_dark_color">#006C5F</color>
+    <color name="you_dialog_background_color">#0C3731</color>
+</resources>
